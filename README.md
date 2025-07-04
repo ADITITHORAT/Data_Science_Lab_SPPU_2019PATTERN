@@ -11,7 +11,7 @@ The `datasets` folder contains datasets required for all assignments.
 ### TITLE  
 **Data Wrangling I**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT  
 Perform the following operations using Python on any open-source dataset (e.g., data.csv):
 
 1. Import all the required Python Libraries.  
@@ -29,7 +29,7 @@ Perform the following operations using Python on any open-source dataset (e.g., 
 ### TITLE  
 **Data Wrangling II**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 Create an “Academic performance” dataset of students and perform the following operations using Python:
 
 1. Scan all variables for missing values and inconsistencies. If there are missing values and/or inconsistencies, use any of the suitable techniques to deal with them.  
@@ -46,7 +46,7 @@ Create an “Academic performance” dataset of students and perform the followi
 ### TITLE  
 **Descriptive Statistics - Measures of Central Tendency and Variability**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 Perform the following operations on any open-source dataset (e.g., data.csv):
 
 1. Provide summary statistics (mean, median, minimum, maximum, standard deviation) for a dataset (age, income etc.) with numeric variables grouped by one of the qualitative (categorical) variable.  
@@ -61,7 +61,7 @@ Perform the following operations on any open-source dataset (e.g., data.csv):
 ### TITLE  
 **Data Visualization I**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 
 1. Use the inbuilt dataset 'titanic'. The dataset contains 891 rows and contains information about the passengers who boarded the unfortunate Titanic ship. Use the Seaborn library to see if we can find any patterns in the data.  
 2. Write a code to check how the price of the ticket (column name: 'fare') for each passenger is distributed by plotting a histogram.
@@ -73,7 +73,7 @@ Perform the following operations on any open-source dataset (e.g., data.csv):
 ### TITLE  
 **Data Visualization II**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 
 1. Use the inbuilt dataset 'titanic'. Plot a box plot for distribution of age with respect to each gender along with the information about whether they survived or not. (Column names: 'sex' and 'age')  
 2. Write observations on the inference from the above statistics.
@@ -85,7 +85,7 @@ Perform the following operations on any open-source dataset (e.g., data.csv):
 ### TITLE  
 **Data Visualization III**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 Download the Iris flower dataset or any other dataset into a DataFrame. (e.g., https://archive.ics.uci.edu/ml/datasets/Iris).  
 Scan the dataset and give the inference as:
 
@@ -101,7 +101,7 @@ Scan the dataset and give the inference as:
 ### TITLE  
 **Text Analytics**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 
 1. Extract Sample document and apply following document preprocessing methods:  
    - Tokenization  
@@ -118,7 +118,7 @@ Scan the dataset and give the inference as:
 ### TITLE  
 **Data Analytics I**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset (https://www.kaggle.com/c/boston-housing).  
 The Boston Housing dataset contains information about various houses in Boston through different parameters. There are 506 samples and 14 feature variables in this dataset.  
 The objective is to predict the value of prices of the house using the given features.
@@ -130,7 +130,7 @@ The objective is to predict the value of prices of the house using the given fea
 ### TITLE  
 **Data Analytics II**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 
 1. Implement logistic regression using Python / R to perform classification on Social_Network_Ads.csv dataset.  
 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
@@ -142,6 +142,6 @@ The objective is to predict the value of prices of the house using the given fea
 ### TITLE  
 **Data Analytics III**
 
-### PROBLEM STATEMENT / DEFINITION  
+### PROBLEM STATEMENT 
 Implement Simple Naïve Bayes classification algorithm using Python/R on iris.csv dataset.  
 Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
